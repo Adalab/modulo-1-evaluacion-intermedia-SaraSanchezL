@@ -13,7 +13,6 @@
   width: 155px;
 }
 .menu {
-  color: #4a4a4a;
   font-family: "Rubik", sans-serif;
   font-size: 16px;
   display: flex;
@@ -22,6 +21,15 @@
   box-sizing: border-box;
   margin-top: 10px;
   margin-bottom: 13px;
+}
+.blog {
+  padding-right: 20px;
+  text-decoration: none;
+  color: #4a4a4a;
+}
+.contact {
+  text-decoration: none;
+  color: #4a4a4a;
 }
 .main {
   background-color: #3cdbc0;
@@ -32,9 +40,6 @@
   height: 100vh;
 }
 
-.blog {
-  padding-right: 20px;
-}
 .container {
   width: 30vw;
   text-align: center;
