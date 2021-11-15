@@ -1,0 +1,24 @@
+.header {
+  position: fixed;
+  width: 100vw;
+  background-color: white;
+}
+.main {
+  background-color: #3cdbc0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.menu {
+  color: #4a4a4a;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+}
+
+.title {
+  color: #ffffff;
+  font-family: "Rubik", sans-serif;
+  font-size: 30px;
+}
