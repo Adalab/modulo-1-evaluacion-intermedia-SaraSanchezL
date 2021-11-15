@@ -2,6 +2,10 @@
   position: fixed;
   width: 100vw;
   background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .main {
   background-color: #3cdbc0;
@@ -11,10 +15,25 @@
   width: 100vw;
   height: 100vh;
 }
+.logo {
+  box-sizing: border-box;
+  margin-top: 10px;
+  width: 155px;
+}
 .menu {
   color: #4a4a4a;
   font-family: "Rubik", sans-serif;
   font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  margin-top: 10px;
+  margin-bottom: 13px;
+}
+
+.blog {
+  padding-right: 20px;
 }
 
 .title {
