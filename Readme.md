@@ -1,6 +1,6 @@
-# Ejercicio de Evaluación Intermedia Módulo 1
+# Versión simplificada de la Home de la página de Adalab. 
 
-En este ejercicio vamos a maquetar una versión simplificada de la Home de la página web de Adalab.
+Maquetar una versión de la Home, utilizando HTML y CSS. 
 
 ## Elementos
 
